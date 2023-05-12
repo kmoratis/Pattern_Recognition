@@ -5,3 +5,4 @@
 - MLE & Bayesian Estimation
 - Decision Trees & Random Forests
 - Model Evaluation - Selection
+- Neural Networks with keras 
