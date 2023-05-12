@@ -2,6 +2,6 @@
 
 ### Projects:
 - Bayes Classifier
-- MLE & Bayesian_Estimation
-- Trees & Random_Forests
+- MLE & Bayesian Estimation
+- Decision Trees & Random Forests
 - Models Assessment 
