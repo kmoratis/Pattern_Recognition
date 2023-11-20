@@ -1,8 +1,8 @@
 # Pattern-Recognition
 
-### Projects:
+### Contents:
 - Bayes Classifier
 - MLE & Bayesian Estimation
 - Decision Trees & Random Forests
 - Model Evaluation - Selection
-- Neural Networks with keras 
+- Neural Networks with Keras 
